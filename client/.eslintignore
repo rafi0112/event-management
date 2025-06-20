@@ -1,0 +1,5 @@
+# Ignore server files (CommonJS)
+server/
+dist/
+build/
+node_modules/
