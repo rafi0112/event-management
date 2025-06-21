@@ -1,2 +1,3 @@
 node_modules
 Firebase-secret-service-key.json
+.env
